@@ -14,3 +14,4 @@ InstructorEmbedding==1.0.1
 sentence-transformers==2.2.2
 langchain-community==0.3.3
 langchain-groq==0.2.0
+pinecone==5.3.1
